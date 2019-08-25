@@ -1,0 +1,14 @@
+.english {
+    font-family: "Serif";
+}
+
+
+header{
+    background: url("../img/head.png");
+}
+
+.thumb{
+
+    width:60px;
+    height: available;
+}
